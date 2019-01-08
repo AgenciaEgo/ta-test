@@ -125,17 +125,6 @@
         {
             "id": 1,
             "title": {
-                "en": "58th anniversary of the Antarctic Treaty",
-                "es": "58th anniversary of the Antarctic Treaty",
-                "fr": "58th anniversary of the Antarctic Treaty",
-                "ru": "58th anniversary of the Antarctic Treaty"
-            },
-            "url": "#",
-            "date": "2017-12-01"
-        },
-        {
-            "id": 2,
-            "title": {
                 "en": "36th Annual Meeting of CCAMLR concludes",
                 "es": "36th Annual Meeting of CCAMLR concludes",
                 "fr": "36th Annual Meeting of CCAMLR concludes",
@@ -143,6 +132,17 @@
             },
             "url": "#",
             "date": "2017-10-30"
+        },
+        {
+            "id": 2,
+            "title": {
+                "en": "58th anniversary of the Antarctic Treaty",
+                "es": "58th anniversary of the Antarctic Treaty",
+                "fr": "58th anniversary of the Antarctic Treaty",
+                "ru": "58th anniversary of the Antarctic Treaty"
+            },
+            "url": "#",
+            "date": "2017-12-01"
         },
         {
             "id": 3,
