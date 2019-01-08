@@ -6,7 +6,8 @@
             "countryCode": "ar",
             "date": {
                 "start": "2018-05-13",
-                "end": "2018-05-19"
+                "end": "2018-05-19",
+                "text": "13 May 2018 - 19 May 2018"
             },
             "links": [
                 {
@@ -25,7 +26,8 @@
             "countryCode": "cn",
             "date": {
                 "start": "2016-05-22",
-                "end": "2016-06-01"
+                "end": "2016-06-01",
+                "text": "22 May 2017 - 01 Jun 2017"
             },
             "links": [
                 {
@@ -44,7 +46,8 @@
             "countryCode": "cl",
             "date": {
                 "start": "2017-05-22",
-                "end": "2017-06-01"
+                "end": "2017-06-01",
+                "text": "23 May 2016 - 01 Jun 2016"
             },
             "links": [
                 {
