@@ -12,11 +12,13 @@
             "links": [
                 {
                     "text": "Information for Delegates",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 },
                 {
                     "text": "Host Country Website",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 }
             ]
         },
@@ -32,11 +34,13 @@
             "links": [
                 {
                     "text": "Information for Delegates",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 },
                 {
                     "text": "Host Country Website",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 }
             ]
         },
@@ -52,11 +56,13 @@
             "links": [
                 {
                     "text": "Information for Delegates",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 },
                 {
                     "text": "Host Country Website",
-                    "url": "#"
+                    "url": "#",
+                    "target": ""
                 }
             ]
         }
@@ -64,7 +70,10 @@
     "news": [
         {
             "title": "36th Annual Meeting of CCAMLR concludes",
-            "url": "#",
+            "link": {
+                "url": "#",
+                "target": ""
+            },
             "date": {
                 "date": "2017-10-30",
                 "text": "01 Dec 2017"
@@ -72,7 +81,10 @@
         },
         {
             "title": "58th anniversary of the Antarctic Treaty",
-            "url": "#",
+            "link": {
+                "url": "#",
+                "target": ""
+            },
             "date": {
                 "date": "2017-12-01",
                 "text": "01 Dec 2017"
@@ -80,7 +92,10 @@
         },
         {
             "title": "Dr José Retamales leaves Chilean Antarctic Institute",
-            "url": "#",
+            "link": {
+                "url": "#",
+                "target": ""
+            },
             "date": {
                 "date": "2017-08-17",
                 "text": "01 Dec 2017"
