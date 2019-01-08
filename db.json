@@ -1,19 +1,8 @@
 {
     "meetings": [
         {
-            "id": 1,
-            "title": {
-                "en": "ATCM XLI - CEP XXI",
-                "es": "ATCM XLI - CEP XXI",
-                "fr": "ATCM XLI - CEP XXI",
-                "ru": "ATCM XLI - CEP XXI"
-            },
-            "location": {
-                "en": "Buenos Aires, Argentina",
-                "es": "Buenos Aires, Argentina",
-                "fr": "Buenos Aires, Argentina",
-                "ru": "Buenos Aires, Argentina"
-            },
+            "title": "ATCM XLI - CEP XXI",
+            "location": "Buenos Aires, Argentina",
             "countryCode": "ar",
             "date": {
                 "start": "2018-05-13",
@@ -21,39 +10,18 @@
             },
             "links": [
                 {
-                    "text": {
-                        "en": "Information for Delegates",
-                        "es": "Information for Delegates",
-                        "fr": "Information for Delegates",
-                        "ru": "Information for Delegates"
-                    },
+                    "text": "Information for Delegates",
                     "url": "#"
                 },
                 {
-                    "text": {
-                        "en": "Host Country Website",
-                        "es": "Host Country Website",
-                        "fr": "Host Country Website",
-                        "ru": "Host Country Website"
-                    },
+                    "text": "Host Country Website",
                     "url": "#"
                 }
             ]
         },
         {
-            "id": 2,
-            "title": {
-                "en": "ATCM XL - CEP XX",
-                "es": "ATCM XL - CEP XX",
-                "fr": "ATCM XL - CEP XX",
-                "ru": "ATCM XL - CEP XX"
-            },
-            "location": {
-                "en": "Beijing, China",
-                "es": "Beijing, China",
-                "fr": "Beijing, China",
-                "ru": "Beijing, China"
-            },
+            "title": "ATCM XL - CEP XX",
+            "location": "Beijing, China",
             "countryCode": "cn",
             "date": {
                 "start": "2016-05-22",
@@ -61,39 +29,18 @@
             },
             "links": [
                 {
-                    "text": {
-                        "en": "Information for Delegates",
-                        "es": "Information for Delegates",
-                        "fr": "Information for Delegates",
-                        "ru": "Information for Delegates"
-                    },
+                    "text": "Information for Delegates",
                     "url": "#"
                 },
                 {
-                    "text": {
-                        "en": "Host Country Website",
-                        "es": "Host Country Website",
-                        "fr": "Host Country Website",
-                        "ru": "Host Country Website"
-                    },
+                    "text": "Host Country Website",
                     "url": "#"
                 }
             ]
         },
         {
-            "id": 3,
-            "title": {
-                "en": "ATCM XXXIX - CEP XIX",
-                "es": "ATCM XXXIX - CEP XIX",
-                "fr": "ATCM XXXIX - CEP XIX",
-                "ru": "ATCM XXXIX - CEP XIX"
-            },
-            "location": {
-                "en": "Santiago, Chile",
-                "es": "Santiago, Chile",
-                "fr": "Santiago, Chile",
-                "ru": "Santiago, Chile"
-            },
+            "title": "ATCM XXXIX - CEP XIX",
+            "location": "Santiago, Chile",
             "countryCode": "cl",
             "date": {
                 "start": "2017-05-22",
@@ -101,21 +48,11 @@
             },
             "links": [
                 {
-                    "text": {
-                        "en": "Information for Delegates",
-                        "es": "Information for Delegates",
-                        "fr": "Information for Delegates",
-                        "ru": "Information for Delegates"
-                    },
+                    "text": "Information for Delegates",
                     "url": "#"
                 },
                 {
-                    "text": {
-                        "en": "Host Country Website",
-                        "es": "Host Country Website",
-                        "fr": "Host Country Website",
-                        "ru": "Host Country Website"
-                    },
+                    "text": "Host Country Website",
                     "url": "#"
                 }
             ]
@@ -123,37 +60,28 @@
     ],
     "news": [
         {
-            "id": 1,
-            "title": {
-                "en": "36th Annual Meeting of CCAMLR concludes",
-                "es": "36th Annual Meeting of CCAMLR concludes",
-                "fr": "36th Annual Meeting of CCAMLR concludes",
-                "ru": "36th Annual Meeting of CCAMLR concludes"
-            },
+            "title": "36th Annual Meeting of CCAMLR concludes",
             "url": "#",
-            "date": "2017-10-30"
+            "date": {
+                "date": "2017-10-30",
+                "text": "01 Dec 2017"
+            }
         },
         {
-            "id": 2,
-            "title": {
-                "en": "58th anniversary of the Antarctic Treaty",
-                "es": "58th anniversary of the Antarctic Treaty",
-                "fr": "58th anniversary of the Antarctic Treaty",
-                "ru": "58th anniversary of the Antarctic Treaty"
-            },
+            "title": "58th anniversary of the Antarctic Treaty",
             "url": "#",
-            "date": "2017-12-01"
+            "date": {
+                "date": "2017-12-01",
+                "text": "01 Dec 2017"
+            }
         },
         {
-            "id": 3,
-            "title": {
-                "en": "Dr José Retamales leaves Chilean Antarctic Institute",
-                "es": "Dr José Retamales leaves Chilean Antarctic Institute",
-                "fr": "Dr José Retamales leaves Chilean Antarctic Institute",
-                "ru": "Dr José Retamales leaves Chilean Antarctic Institute"
-            },
+            "title": "Dr José Retamales leaves Chilean Antarctic Institute",
             "url": "#",
-            "date": "2017-08-17"
+            "date": {
+                "date": "2017-08-17",
+                "text": "01 Dec 2017"
+            }
         }
     ]
 }
