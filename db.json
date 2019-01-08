@@ -8,7 +8,7 @@
                 "fr": "ATCM XLI - CEP XXI",
                 "ru": "ATCM XLI - CEP XXI"
             },
-            "place": {
+            "location": {
                 "en": "Buenos Aires, Argentina",
                 "es": "Buenos Aires, Argentina",
                 "fr": "Buenos Aires, Argentina",
@@ -48,7 +48,7 @@
                 "fr": "ATCM XL - CEP XX",
                 "ru": "ATCM XL - CEP XX"
             },
-            "place": {
+            "location": {
                 "en": "Beijing, China",
                 "es": "Beijing, China",
                 "fr": "Beijing, China",
@@ -88,7 +88,7 @@
                 "fr": "ATCM XXXIX - CEP XIX",
                 "ru": "ATCM XXXIX - CEP XIX"
             },
-            "place": {
+            "location": {
                 "en": "Santiago, Chile",
                 "es": "Santiago, Chile",
                 "fr": "Santiago, Chile",
