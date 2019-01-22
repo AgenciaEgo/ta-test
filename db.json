@@ -1,6 +1,32 @@
 {
     "meetings": [
         {
+            "title": "ATCM XLII - CEP XXII",
+            "location": "Prague, Czech Republic",
+            "countryCode": "cz",
+            "date": {
+                "start": "2019-07-01",
+                "end": "2019-07-11",
+                "text": "01 Jul 2019 - 11 Jul 2019"
+            },
+            "meetingLink": {
+                "url": "#",
+                "target": ""
+            },
+            "links": [
+                {
+                    "text": "Information for Delegates",
+                    "url": "#",
+                    "target": ""
+                },
+                {
+                    "text": "Host Country Website",
+                    "url": "#",
+                    "target": ""
+                }
+            ]
+        },
+        {
             "title": "ATCM XLI - CEP XXI",
             "location": "Buenos Aires, Argentina",
             "countryCode": "ar",
@@ -8,6 +34,10 @@
                 "start": "2019-05-13",
                 "end": "2019-05-19",
                 "text": "14 May 2019 - 19 May 2019"
+            },
+            "meetingLink": {
+                "url": "#",
+                "target": ""
             },
             "links": [
                 {
@@ -31,6 +61,10 @@
                 "end": "2016-06-01",
                 "text": "22 May 2017 - 01 Jun 2017"
             },
+            "meetingLink": {
+                "url": "#",
+                "target": ""
+            },
             "links": [
                 {
                     "text": "Information for Delegates",
@@ -52,6 +86,10 @@
                 "start": "2017-05-22",
                 "end": "2017-06-01",
                 "text": "23 May 2016 - 01 Jun 2016"
+            },
+            "meetingLink": {
+                "url": "#",
+                "target": ""
             },
             "links": [
                 {
