@@ -132,34 +132,6 @@
                             "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
                             "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
                         }
-                    }, {
-                        "code": "orange",
-                        "name": "naranja",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "pink",
-                        "name": "rosa",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "yellow",
-                        "name": "amarillo",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "blue",
-                        "name": "azul",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
                     }
                 ],
                 "characteristics": [
@@ -230,41 +202,6 @@
                     {
                         "code": "red",
                         "name": "rojo",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "brown",
-                        "name": "marron",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "orange",
-                        "name": "naranja",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "pink",
-                        "name": "rosa",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "yellow",
-                        "name": "amarillo",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "blue",
-                        "name": "azul",
                         "images": {
                             "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
                             "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
@@ -355,41 +292,6 @@
                             "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
                             "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
                         }
-                    }, {
-                        "code": "brown",
-                        "name": "marron",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "orange",
-                        "name": "naranja",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "pink",
-                        "name": "rosa",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "yellow",
-                        "name": "amarillo",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "blue",
-                        "name": "azul",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/blanco/atras.png"
-                        }
                     }
                 ]
             }
@@ -428,34 +330,6 @@
                     }, {
                         "code": "brown",
                         "name": "marron",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "orange",
-                        "name": "naranja",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "pink",
-                        "name": "rosa",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "yellow",
-                        "name": "amarillo",
-                        "images": {
-                            "main": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/frente.png",
-                            "alternative": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/atras.png"
-                        }
-                    }, {
-                        "code": "blue",
-                        "name": "azul",
                         "images": {
                             "main": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/frente.png",
                             "alternative": "http://toyota.egoagencydev.com/img/fichas/hilux/customizer/srx-srv/blanco/atras.png"
@@ -561,117 +435,6 @@
                         "text": "31 gr"
                     }
                 ]
-            },{
-                "id": "3",
-                "title": "Moldura baul",
-                "price": {
-                    "ars": 2200,
-                    "usd": 50
-                },
-                "image": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/accessories/moldura_baul.jpg",
-                "category": "exterior",
-                "trimID": "abc",
-                "description": "- Excelente terminación y diseño exclusivo que acompaña las lineas de la parte superior de la camioneta.- Protege en el transporte necesario sobre esta parte, manteniendo el vehículo siempre sofisticado y elegante.",
-                "features": [
-                    {
-                        "title": "Aplicación",
-                        "text": "Todos"
-                    },
-                    {
-                        "title": "Nro de Parte",
-                        "text": "PV382-0D010"
-                    },
-                    {
-                        "title": "Tiempo de instalación",
-                        "text": "30 min"
-                    },
-                    {
-                        "title": "Año del modelo",
-                        "text": "2019"
-                    },
-                    {
-                        "title": "Nro de Ref. Manual",
-                        "text": "GIA-Y-011"
-                    },
-                    {
-                        "title": "Peso",
-                        "text": "31 gr"
-                    }
-                ]
-            },{
-                "id": "4",
-                "title": "Moldura cromada interior trasera",
-                "price": {
-                    "ars": 2200,
-                    "usd": 50
-                },
-                "image": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/accessories/moldura_cromada_interior_trasera.jpg",
-                "category": "exterior",
-                "trimID": "abc",
-                "description": "- Excelente terminación y diseño exclusivo que acompaña las lineas de la parte superior de la camioneta.- Protege en el transporte necesario sobre esta parte, manteniendo el vehículo siempre sofisticado y elegante.",
-                "features": [
-                    {
-                        "title": "Aplicación",
-                        "text": "Todos"
-                    },
-                    {
-                        "title": "Nro de Parte",
-                        "text": "PV382-0D010"
-                    },
-                    {
-                        "title": "Tiempo de instalación",
-                        "text": "30 min"
-                    },
-                    {
-                        "title": "Año del modelo",
-                        "text": "2019"
-                    },
-                    {
-                        "title": "Nro de Ref. Manual",
-                        "text": "GIA-Y-011"
-                    },
-                    {
-                        "title": "Peso",
-                        "text": "31 gr"
-                    }
-                ]
-            },{
-                "id": "5",
-                "title": "Moldura lateral",
-                "price": {
-                    "ars": 2200,
-                    "usd": 50
-                },
-                "image": "http://toyota.egoagencydev.com/img/fichas/corolla/customizer/corolla/accessories/moldura_lateral.jpg",
-                "category": "exterior",
-                "trimID": "abc",
-                "description": "- Excelente terminación y diseño exclusivo que acompaña las lineas de la parte superior de la camioneta.- Protege en el transporte necesario sobre esta parte, manteniendo el vehículo siempre sofisticado y elegante.",
-                "features": [
-                    {
-                        "title": "Aplicación",
-                        "text": "Todos"
-                    },
-                    {
-                        "title": "Nro de Parte",
-                        "text": "PV382-0D010"
-                    },
-                    {
-                        "title": "Tiempo de instalación",
-                        "text": "30 min"
-                    },
-                    {
-                        "title": "Año del modelo",
-                        "text": "2019"
-                    },
-                    {
-                        "title": "Nro de Ref. Manual",
-                        "text": "GIA-Y-011"
-                    },
-                    {
-                        "title": "Peso",
-                        "text": "31 gr"
-                    }
-                ]
             }
         ],
         "hilux": [
@@ -714,43 +477,6 @@
                 ]
             },{
                 "id": "2",
-                "title": "1 Conjunto Protector de Paragolpes trasero y delantero (4 y 5 puertas)",
-                "price": {
-                    "ars": 2200,
-                    "usd": 50
-                },
-                "image": "http://via.placeholder.com/270x120",
-                "category": "varios",
-                "trimID": "abc",
-                "description": "- Excelente terminación y diseño exclusivo que acompaña las lineas de la parte superior de la camioneta.- Protege en el transporte necesario sobre esta parte, manteniendo el vehículo siempre sofisticado y elegante.",
-                "features": [
-                    {
-                        "title": "Aplicación",
-                        "text": "Todos"
-                    },
-                    {
-                        "title": "Nro de Parte",
-                        "text": "PV382-0D010"
-                    },
-                    {
-                        "title": "Tiempo de instalación",
-                        "text": "30 min"
-                    },
-                    {
-                        "title": "Año del modelo",
-                        "text": "2019"
-                    },
-                    {
-                        "title": "Nro de Ref. Manual",
-                        "text": "GIA-Y-011"
-                    },
-                    {
-                        "title": "Peso",
-                        "text": "31 gr"
-                    }
-                ]
-            },{
-                "id": "3",
                 "title": "1 Conjunto Protector de Paragolpes trasero y delantero (4 y 5 puertas)",
                 "price": {
                     "ars": 2200,
